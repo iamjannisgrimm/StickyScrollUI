@@ -21,6 +21,34 @@
 		AF78C5A126E71F7900675C5B /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF78C57526E71F7700675C5B /* Persistence.swift */; };
 		AF78C5A226E71F7900675C5B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF78C57626E71F7900675C5B /* Assets.xcassets */; };
 		AF78C5A326E71F7900675C5B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF78C57626E71F7900675C5B /* Assets.xcassets */; };
+		AF78C5B326E7204900675C5B /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF78C5B226E7204900675C5B /* MainView.swift */; };
+		AF78C5B426E7204900675C5B /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF78C5B226E7204900675C5B /* MainView.swift */; };
+		AF78C5B626E7207700675C5B /* AreaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF78C5B526E7207700675C5B /* AreaView.swift */; };
+		AF78C5B726E7207700675C5B /* AreaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF78C5B526E7207700675C5B /* AreaView.swift */; };
+		AF78C5B926E7208F00675C5B /* ViewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF78C5B826E7208F00675C5B /* ViewView.swift */; };
+		AF78C5BA26E7208F00675C5B /* ViewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF78C5B826E7208F00675C5B /* ViewView.swift */; };
+		AFBBEFDD2726494000639FA5 /* StockRateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBBEFDC2726494000639FA5 /* StockRateView.swift */; };
+		AFBBEFDE2726494000639FA5 /* StockRateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBBEFDC2726494000639FA5 /* StockRateView.swift */; };
+		AFBBEFE02726495700639FA5 /* TextAddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBBEFDF2726495700639FA5 /* TextAddView.swift */; };
+		AFBBEFE12726495700639FA5 /* TextAddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBBEFDF2726495700639FA5 /* TextAddView.swift */; };
+		AFBBEFE627264D3800639FA5 /* GeneralAreaViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBBEFE527264D3800639FA5 /* GeneralAreaViewCell.swift */; };
+		AFBBEFE727264D3800639FA5 /* GeneralAreaViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBBEFE527264D3800639FA5 /* GeneralAreaViewCell.swift */; };
+		AFBBEFE927264D4E00639FA5 /* StockGraphViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBBEFE827264D4E00639FA5 /* StockGraphViewCell.swift */; };
+		AFBBEFEA27264D4E00639FA5 /* StockGraphViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBBEFE827264D4E00639FA5 /* StockGraphViewCell.swift */; };
+		AFBBEFED27264D9200639FA5 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBBEFEC27264D9200639FA5 /* SettingsView.swift */; };
+		AFBBEFEE27264D9200639FA5 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBBEFEC27264D9200639FA5 /* SettingsView.swift */; };
+		AFBBEFF92728B6EA00639FA5 /* MainCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBBEFF82728B6EA00639FA5 /* MainCode.swift */; };
+		AFBBEFFA2728B6EA00639FA5 /* MainCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBBEFF82728B6EA00639FA5 /* MainCode.swift */; };
+		AFBBEFFC2729CEC300639FA5 /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBBEFFB2729CEC300639FA5 /* AddView.swift */; };
+		AFBBEFFD2729CEC400639FA5 /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBBEFFB2729CEC300639FA5 /* AddView.swift */; };
+		AFBBEFFF2729CEF100639FA5 /* TextAStockAddViewButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBBEFFE2729CEF100639FA5 /* TextAStockAddViewButtons.swift */; };
+		AFBBF0002729CEF100639FA5 /* TextAStockAddViewButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBBEFFE2729CEF100639FA5 /* TextAStockAddViewButtons.swift */; };
+		AFBBF0022729D57F00639FA5 /* AreaViewButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBBF0012729D57F00639FA5 /* AreaViewButtons.swift */; };
+		AFBBF0032729D57F00639FA5 /* AreaViewButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBBF0012729D57F00639FA5 /* AreaViewButtons.swift */; };
+		AFBBF0052729D7F000639FA5 /* ViewViewButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBBF0042729D7F000639FA5 /* ViewViewButtons.swift */; };
+		AFBBF0062729D7F000639FA5 /* ViewViewButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBBF0042729D7F000639FA5 /* ViewViewButtons.swift */; };
+		AFBBF008272A10CA00639FA5 /* ViewViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBBF007272A10C900639FA5 /* ViewViewCell.swift */; };
+		AFBBF009272A10CA00639FA5 /* ViewViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBBF007272A10C900639FA5 /* ViewViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +82,20 @@
 		AF78C59226E71F7900675C5B /* Tests macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF78C59626E71F7900675C5B /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		AF78C59826E71F7900675C5B /* Tests_macOSLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOSLaunchTests.swift; sourceTree = "<group>"; };
+		AF78C5B226E7204900675C5B /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = MainView.swift; path = ../../MainView.swift; sourceTree = "<group>"; };
+		AF78C5B526E7207700675C5B /* AreaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AreaView.swift; sourceTree = "<group>"; };
+		AF78C5B826E7208F00675C5B /* ViewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewView.swift; sourceTree = "<group>"; };
+		AFBBEFDC2726494000639FA5 /* StockRateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StockRateView.swift; sourceTree = "<group>"; };
+		AFBBEFDF2726495700639FA5 /* TextAddView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextAddView.swift; sourceTree = "<group>"; };
+		AFBBEFE527264D3800639FA5 /* GeneralAreaViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeneralAreaViewCell.swift; sourceTree = "<group>"; };
+		AFBBEFE827264D4E00639FA5 /* StockGraphViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StockGraphViewCell.swift; sourceTree = "<group>"; };
+		AFBBEFEC27264D9200639FA5 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		AFBBEFF82728B6EA00639FA5 /* MainCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainCode.swift; sourceTree = "<group>"; };
+		AFBBEFFB2729CEC300639FA5 /* AddView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddView.swift; sourceTree = "<group>"; };
+		AFBBEFFE2729CEF100639FA5 /* TextAStockAddViewButtons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextAStockAddViewButtons.swift; sourceTree = "<group>"; };
+		AFBBF0012729D57F00639FA5 /* AreaViewButtons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AreaViewButtons.swift; sourceTree = "<group>"; };
+		AFBBF0042729D7F000639FA5 /* ViewViewButtons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewViewButtons.swift; sourceTree = "<group>"; };
+		AFBBF007272A10C900639FA5 /* ViewViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +145,9 @@
 			children = (
 				AF78C57326E71F7700675C5B /* MeMyselfApp.swift */,
 				AF78C57426E71F7700675C5B /* ContentView.swift */,
+				AF78C5B226E7204900675C5B /* MainView.swift */,
+				AFBBEFF82728B6EA00639FA5 /* MainCode.swift */,
+				AFBBEFD8272648E300639FA5 /* SubMainViews */,
 				AF78C57526E71F7700675C5B /* Persistence.swift */,
 				AF78C57626E71F7900675C5B /* Assets.xcassets */,
 				AF78C57126E71F7700675C5B /* MeMyself.xcdatamodeld */,
@@ -137,6 +182,49 @@
 				AF78C59826E71F7900675C5B /* Tests_macOSLaunchTests.swift */,
 			);
 			path = "Tests macOS";
+			sourceTree = "<group>";
+		};
+		AFBBEFD8272648E300639FA5 /* SubMainViews */ = {
+			isa = PBXGroup;
+			children = (
+				AF78C5B826E7208F00675C5B /* ViewView.swift */,
+				AFBBEFFB2729CEC300639FA5 /* AddView.swift */,
+				AF78C5B526E7207700675C5B /* AreaView.swift */,
+				AFBBEFEB27264D5400639FA5 /* SubViewViews */,
+				AFBBF00A272A118300639FA5 /* SubAddViews */,
+				AFBBF00B272A11B800639FA5 /* SubAreaViews */,
+			);
+			path = SubMainViews;
+			sourceTree = "<group>";
+		};
+		AFBBEFEB27264D5400639FA5 /* SubViewViews */ = {
+			isa = PBXGroup;
+			children = (
+				AFBBF007272A10C900639FA5 /* ViewViewCell.swift */,
+				AFBBF0042729D7F000639FA5 /* ViewViewButtons.swift */,
+				AFBBEFE527264D3800639FA5 /* GeneralAreaViewCell.swift */,
+				AFBBEFE827264D4E00639FA5 /* StockGraphViewCell.swift */,
+				AFBBEFEC27264D9200639FA5 /* SettingsView.swift */,
+			);
+			path = SubViewViews;
+			sourceTree = "<group>";
+		};
+		AFBBF00A272A118300639FA5 /* SubAddViews */ = {
+			isa = PBXGroup;
+			children = (
+				AFBBEFDF2726495700639FA5 /* TextAddView.swift */,
+				AFBBEFDC2726494000639FA5 /* StockRateView.swift */,
+				AFBBEFFE2729CEF100639FA5 /* TextAStockAddViewButtons.swift */,
+			);
+			path = SubAddViews;
+			sourceTree = "<group>";
+		};
+		AFBBF00B272A11B800639FA5 /* SubAreaViews */ = {
+			isa = PBXGroup;
+			children = (
+				AFBBF0012729D57F00639FA5 /* AreaViewButtons.swift */,
+			);
+			path = SubAreaViews;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -297,10 +385,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AFBBEFFC2729CEC300639FA5 /* AddView.swift in Sources */,
+				AFBBEFF92728B6EA00639FA5 /* MainCode.swift in Sources */,
 				AF78C59A26E71F7900675C5B /* MeMyself.xcdatamodeld in Sources */,
+				AFBBF008272A10CA00639FA5 /* ViewViewCell.swift in Sources */,
+				AFBBF0052729D7F000639FA5 /* ViewViewButtons.swift in Sources */,
+				AFBBEFE627264D3800639FA5 /* GeneralAreaViewCell.swift in Sources */,
+				AFBBEFDD2726494000639FA5 /* StockRateView.swift in Sources */,
+				AFBBEFFF2729CEF100639FA5 /* TextAStockAddViewButtons.swift in Sources */,
+				AFBBF0022729D57F00639FA5 /* AreaViewButtons.swift in Sources */,
 				AF78C5A026E71F7900675C5B /* Persistence.swift in Sources */,
+				AF78C5B326E7204900675C5B /* MainView.swift in Sources */,
+				AF78C5B626E7207700675C5B /* AreaView.swift in Sources */,
+				AF78C5B926E7208F00675C5B /* ViewView.swift in Sources */,
+				AFBBEFE927264D4E00639FA5 /* StockGraphViewCell.swift in Sources */,
+				AFBBEFE02726495700639FA5 /* TextAddView.swift in Sources */,
 				AF78C59C26E71F7900675C5B /* MeMyselfApp.swift in Sources */,
 				AF78C59E26E71F7900675C5B /* ContentView.swift in Sources */,
+				AFBBEFED27264D9200639FA5 /* SettingsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -308,10 +410,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AFBBEFFD2729CEC400639FA5 /* AddView.swift in Sources */,
+				AFBBEFFA2728B6EA00639FA5 /* MainCode.swift in Sources */,
 				AF78C59B26E71F7900675C5B /* MeMyself.xcdatamodeld in Sources */,
+				AFBBF009272A10CA00639FA5 /* ViewViewCell.swift in Sources */,
+				AFBBF0062729D7F000639FA5 /* ViewViewButtons.swift in Sources */,
+				AFBBEFE727264D3800639FA5 /* GeneralAreaViewCell.swift in Sources */,
+				AFBBEFDE2726494000639FA5 /* StockRateView.swift in Sources */,
+				AFBBF0002729CEF100639FA5 /* TextAStockAddViewButtons.swift in Sources */,
+				AFBBF0032729D57F00639FA5 /* AreaViewButtons.swift in Sources */,
 				AF78C5A126E71F7900675C5B /* Persistence.swift in Sources */,
+				AF78C5B426E7204900675C5B /* MainView.swift in Sources */,
+				AF78C5B726E7207700675C5B /* AreaView.swift in Sources */,
+				AF78C5BA26E7208F00675C5B /* ViewView.swift in Sources */,
+				AFBBEFEA27264D4E00639FA5 /* StockGraphViewCell.swift in Sources */,
+				AFBBEFE12726495700639FA5 /* TextAddView.swift in Sources */,
 				AF78C59D26E71F7900675C5B /* MeMyselfApp.swift in Sources */,
 				AF78C59F26E71F7900675C5B /* ContentView.swift in Sources */,
+				AFBBEFEE27264D9200639FA5 /* SettingsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -467,7 +583,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 8EE2F7U9YF;
+				DEVELOPMENT_TEAM = 4T45JZX92W;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -497,7 +613,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 8EE2F7U9YF;
+				DEVELOPMENT_TEAM = 4T45JZX92W;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
